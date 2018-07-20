@@ -1,0 +1,2 @@
+# Sams
+in class exercise
